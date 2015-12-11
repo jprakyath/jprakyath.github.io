@@ -177,6 +177,14 @@ address span{
   padding: 5px 190px 5px 30px;
   display: inline-block;
 }
+.about_me {
+	margin:2em 0;
+}
+.about_me  h3{
+  color: #FFF;
+  padding: 5px 41px 5px 30px;
+  display: inline-block;
+}
 h3.clr1{
 	background:#6ecadc;
 }
@@ -185,6 +193,12 @@ h3.clr2{
 }
 h3.clr3{
 	background:#3eb991;
+}
+h3.clr4{
+	background:#4a2ae2;
+}
+h3.clr5{
+	background:#7e5991;
 }
 .copywrite{
 	padding-left:2em;
